@@ -74,6 +74,8 @@ p {
   nav li {
     display: inline-block;
     margin-right: 20px;
+    font-style: bold;
+
   }
   nav a {
     color: #fff;
